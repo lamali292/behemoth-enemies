@@ -153,7 +153,7 @@ This mod is released under the MIT License. See [LICENSE](LICENSE) file for deta
 
 ## Support
 
-Report bugs and request features on the [GitHub Issues page](https://github.com/yourusername/behemoth-enemies/issues).
+Report bugs and request features on the [GitHub Issues page](https://github.com/lamali292/behemoth-enemies/issues).
 
 ### Reporting Bugs
 
