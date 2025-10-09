@@ -1,0 +1,65 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 17. 07. 2025
+
+  Bugfixes:
+    - Fixed a crash caused by leftover variables after removing mod
+      - but Behemoth demolishers can no longer spawn on already generated vulcanus
+      - Mod is now removable after the Vulcanus surface has been generated.
+      - After removing mod Vulcanus map generation is still altered. Missing territories will not be regenerated.
+      - The unused variable is retained for compatibility with older versions in data file.
+    - Fixed a crash when the Vulcanus surface has no territory_settings (e.g. due to other mods).
+      - In this case, the Behemoth Demolisher will no longer spawn.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 16. 07. 2025
+
+  Bugfixes:
+    - fixed missing demolisher corpse graphic for 2.0.60
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 18. 11. 2024
+
+  Changes:
+    - Settings added so that larger demolishers can be set to spawn closer and Gleba opponents can evolve earlier
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 13. 11. 2024
+
+  Changes:
+    - fixed factoriopedia
+
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 13. 11. 2024
+
+  Changes:
+    - compatibility features for vulcanus map/behemoth demolishers Generation
+    - added changelog
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 13. 11. 2024
+
+  Changes:
+    - cleaned up code alot
+    - duplicate base game code removed
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 13. 11. 2024
+
+  Changes:
+    - Behemoth demolishers can now also spawn on already generated vulcanus
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 13. 11. 2024
+  Major Features:
+    - Initial release.
