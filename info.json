@@ -1,9 +1,9 @@
 {
     "name": "behemoth-enemies",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "title": "Behemoth Enemies Mod",
     "author": "lamali",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
 	"homepage": "",
-	"dependencies": ["base >= 2.0.60", "space-age >= 2.0.60"]
+	"dependencies": ["base >= 2.1.7", "space-age >= 2.1.7"]
 }
